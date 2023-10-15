@@ -1,4 +1,4 @@
-# UEShaderScript
+# DiscordBotBaseTemplate
 
 ## Discord
 First things first, I have a discord server for questions, support and bugs find me here: 
