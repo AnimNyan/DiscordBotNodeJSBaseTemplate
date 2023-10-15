@@ -34,8 +34,9 @@ To use the bot, please use the following steps:
 4. If you're not using a mongodb database go into src/index.js and use this code instead of the code section using mongodb eventHandler(client); .
 
 5. Please install npm and nodejs on your computer and then change directory into the folder you pulled from github and run the following command:
+```
 npm install
-
+```
 This will install all the npm dependencies from the pakcage.json.
 
 6. If you're using a server to run this, please install pm2 as per the following documentation: https://www.letscloud.io/community/how-to-use-pm2-to-setup-a-nodejs-production and then you can use this command:
