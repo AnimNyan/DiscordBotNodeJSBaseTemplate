@@ -29,7 +29,7 @@ const client = new Client ({
 })();
 
 //----------------If you do NOT need to connect---------------
-//to a mongodb database use this one line of commented out code instead---------------
+//to a mongodb database use this one line of commented out code instead of the above section---------------
 //eventHandler(client);
 
 client.login(process.env.TOKEN);
