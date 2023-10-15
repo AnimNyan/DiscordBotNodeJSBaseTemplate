@@ -44,5 +44,7 @@ pm2 start src/index.js
 ```
 
 If you just want to run it for testing purposes feel free to use node or nodemon like so:
+```
 node src/index.js
 nodemon src/index.js
+```
