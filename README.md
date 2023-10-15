@@ -31,14 +31,14 @@ To use the bot, please use the following steps:
 
 3. Create a ".env" file following the .env example file replacing the values for your bot and server id. If you're not using a mongodb database, MONGODB_URI is optional.
 
-3. If you're not using a mongodb database go into src/index.js and use this code instead of the code section using mongodb eventHandler(client); .
+4. If you're not using a mongodb database go into src/index.js and use this code instead of the code section using mongodb eventHandler(client); .
 
-4. Please install npm and nodejs on your computer and then change directory into the folder you pulled from github and run the following command:
+5. Please install npm and nodejs on your computer and then change directory into the folder you pulled from github and run the following command:
 npm install
 
 This will install all the npm dependencies from the pakcage.json.
 
-4. If you're using a server to run this, please install pm2 as per the following documentation: https://www.letscloud.io/community/how-to-use-pm2-to-setup-a-nodejs-production and then you can use this command:
+6. If you're using a server to run this, please install pm2 as per the following documentation: https://www.letscloud.io/community/how-to-use-pm2-to-setup-a-nodejs-production and then you can use this command:
 ```
 pm2 start src/index.js
 ```
