@@ -1,9 +1,9 @@
 # DiscordBotBaseTemplate
 
 ## Discord
-First things first, I have a discord server for questions, support and bugs find me here: 
+First things first, I have a discord server for questions, support and bugs find me here: https://discord.gg/JkNp3mnJ6Q
 
-You can also find me on discord with the username @animenyan
+You can find me on discord with the username @animenyan and message my username directly as well.
 
 ## What does DiscordBotBaseTemplate do?
 DiscordBotBaseTemplate is a base template made with NodeJS designed to make it easy for you to build off of to create your own discord bot with NodeJS. It comes with its own Command and Event Handler for which full credit goes to Under Ctrl.
